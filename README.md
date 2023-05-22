@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 You can find me at:
   - Kaggle: https://www.kaggle.com/elizavetaserdtseva
   - Codeforces: https://codeforces.com/profile/serdtseva
+-->
